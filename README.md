@@ -1,0 +1,1 @@
+This is a clone of Digital Ocean's [current website](https://www.digitalocean.com/) and what was on [xyz](https://www.pages.xyz/www-digitalocean) that I did for funsies one night. Definitely not mobile responsive.
